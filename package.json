@@ -5,7 +5,7 @@
   "description": "A test app created for GCI 2109",
   "repository": "https://github.com/riskycase/my-app",
   "dependencies": {
-    "@testing-library/jest-dom": "^5.8.0",
+    "@testing-library/jest-dom": "^5.9.0",
     "@testing-library/react": "^10.0.4",
     "@testing-library/user-event": "^10.3.5",
     "react": "^16.13.1",
